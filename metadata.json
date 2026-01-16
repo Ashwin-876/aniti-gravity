@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Expronix Expiry",
+  "description": "Intelligent food expiry tracking and management PWA to combat food waste with AI-powered insights and dish suggestions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
